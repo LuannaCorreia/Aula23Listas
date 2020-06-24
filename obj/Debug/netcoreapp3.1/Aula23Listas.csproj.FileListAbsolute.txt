@@ -1,0 +1,11 @@
+C:\Users\Senai132\Desktop\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.exe
+C:\Users\Senai132\Desktop\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.deps.json
+C:\Users\Senai132\Desktop\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.runtimeconfig.json
+C:\Users\Senai132\Desktop\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.runtimeconfig.dev.json
+C:\Users\Senai132\Desktop\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.dll
+C:\Users\Senai132\Desktop\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.pdb
+C:\Users\Senai132\Desktop\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.csprojAssemblyReference.cache
+C:\Users\Senai132\Desktop\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.AssemblyInfoInputs.cache
+C:\Users\Senai132\Desktop\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.AssemblyInfo.cs
+C:\Users\Senai132\Desktop\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.dll
+C:\Users\Senai132\Desktop\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.pdb
